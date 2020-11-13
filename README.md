@@ -11,4 +11,3 @@ When I refresh the page, the the saved events persist.
 ```
 
 ## Edited by Diego Henandez.
-# work-day-scheduler
